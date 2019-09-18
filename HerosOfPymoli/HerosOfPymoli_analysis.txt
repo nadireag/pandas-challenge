@@ -1,0 +1,6 @@
+Heros Of Pymoli Analysis
+
+. The game is more popular among male players. Players are %84 male vs %14 female.
+. The game is played mostly by players that ages in between 20 to 24. 
+. Male players purchase more products than female players.
+. Most popular and profitable item is Oathbreaker, The Last Hope of Breaking Storm. 
